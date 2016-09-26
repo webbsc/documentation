@@ -2,6 +2,7 @@ site_name: WebBSC documentation
 pages:
 - Home: index.md
 - Startig off: login.md
+- Daten: daten.md
 theme: readthedocs
 
 extra_css:
