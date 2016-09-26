@@ -1,0 +1,4 @@
+site_name: WebBSC documentation
+
+extra_css:
+    - css/extra.css
