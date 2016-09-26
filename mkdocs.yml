@@ -1,4 +1,8 @@
 site_name: WebBSC documentation
+pages:
+- Home: index.md
+- Startig off: login.md
+theme: readthedocs
 
 extra_css:
     - css/extra.css
