@@ -4,4 +4,5 @@ pages:
 - Startig off: login.md
 theme: readthedocs
 
-extra_css: [extra.css]
+extra_css:
+    - css/extra.css
