@@ -3,4 +3,6 @@ Datenimport
 
 Video tutorial explaining data import:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PM6b2ur6shQ" frameborder="0" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=PM6b2ur6shQ
+" target="_blank"><img src="http://img.youtube.com/vi/PM6b2ur6shQ/0.jpg" 
+alt="Datenimport" width="560" height="315" border="0" /></a>
