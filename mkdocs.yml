@@ -1,9 +1,0 @@
-site_name: WebBSC documentation
-pages:
-- Home: index.md
-- Startig off: login.md
-- Daten: daten.rst
-theme: readthedocs
-
-extra_css:
-    - css/extra.css
