@@ -3,6 +3,14 @@ Welcome to WebBSC documentation!
 
 Navigate on the left side to find the topic you need guidance with.
 
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+
+   *
+
 Find out how WebBSC can help your business in the presentation from E-Day 2015.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6L8lq0PeI5w
