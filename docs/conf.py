@@ -17,7 +17,6 @@ html_static_path = ['_static']
 
 html_theme = 'default'
 htmlhelp_basename = 'ReadtheDocsTemplatedoc'
-#html_style = 'css/my_theme.css' 
 
 language = 'en'
 
