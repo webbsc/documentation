@@ -8,6 +8,7 @@ templates_path = ['_templates']
 source_suffix = ['.rst', '.md', '.markdown']
 source_parsers = {
     '.md': CommonMarkParser,
+    '.markdown': CommonMarkParser,
 }
 
 master_doc = 'index'
