@@ -9,7 +9,7 @@ Contents:
    :maxdepth: 2
    
    login
-   testing-doc
+   testing
 
 
 Find out how WebBSC can help your business in the presentation from E-Day 2015.
