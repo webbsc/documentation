@@ -8,11 +8,16 @@ Contents:
 .. toctree::
    :maxdepth: 2
    
-   daten
    Logging in <login>
+   
+   :glob:
+
+   *
 
 
 Find out how WebBSC can help your business in the presentation from E-Day 2015.
+
+.. raw:: html
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6L8lq0PeI5w
 " target="_blank"><img src="http://img.youtube.com/vi/6L8lq0PeI5w/0.jpg" 
