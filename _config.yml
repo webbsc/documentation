@@ -15,4 +15,4 @@ collections:
 defaults:
   - scope:
       path: "docs"
-      type: "docs"
+      type: "Pages"
