@@ -9,7 +9,7 @@ Contents:
    :maxdepth: 2
    
    daten
-   login
+   Logging in <login>
 
 
 Find out how WebBSC can help your business in the presentation from E-Day 2015.
