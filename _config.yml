@@ -11,3 +11,8 @@ collections:
   docs:
     title: docs
     output: true
+    
+defaults:
+  - scope:
+      path: "docs"
+      type: "docs"
