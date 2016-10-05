@@ -1,0 +1,9 @@
+.wy-side-nav-search,
+.wy-nav-top,
+.wy-menu-vertical a:active{
+    background-color: #d8512b;
+}
+
+.wy-side-nav-search input[type=text]{
+    border-color: #af3714;
+}
