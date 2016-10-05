@@ -5,12 +5,11 @@ Navigate on the left side to find the topic you need guidance with.
 
 Contents:
 
-
-   
 .. toctree::
    :maxdepth: 2
-   daten
-   login <login>
+   :glob:
+
+   *
 
 
 Find out how WebBSC can help your business in the presentation from E-Day 2015.
