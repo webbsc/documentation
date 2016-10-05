@@ -1,9 +1,6 @@
 .wy-side-nav-search,
-.wy-nav-top{
-    background-color: #d8512b;
-}
-
-.wy-menu-vertical a:active {
+.wy-nav-top,
+.wy-menu-vertical a:active{
     background-color: #d8512b;
 }
 
